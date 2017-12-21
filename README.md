@@ -12,6 +12,3 @@ The 18F Method Cards are a collection of tools that describe how our teams put h
 
 # 日本語版について
 オリジナルにはPaperwork Reduction Act(PRA)に関するノートがそれぞれのカードに含まれていますが、日本語版には含めていません。個人情報保護法などもアメリカと日本では異なるため、誤解を避けるために日本語版には含めていません。
-
-
-翻訳：カタパルトスープレックスなかむらかずや
